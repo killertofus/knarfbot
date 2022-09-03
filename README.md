@@ -31,6 +31,7 @@ pretty-errors
 python-dotenv
 
 better_profanity
+
 **Dependencies**
 git clone https://github.com/killertofus/knarfbot
 pip install -r requirements.txt
